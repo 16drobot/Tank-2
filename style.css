@@ -1,0 +1,30 @@
+body  {
+    background-color: rgb(17, 226, 27);
+ }
+h1 { 
+    color: #a30000;
+    font-size: 45px;
+    text-align: center;
+}
+li {
+    font-size: 20px;
+
+ }
+.text-1 {
+    color: #fbff00;
+ }
+.text-2 {
+    color: #ff0404;
+ }
+.text-3 { 
+    color: #2600ff;
+ }
+.text-4 { 
+    color: #ff00f2;
+}
+.photo {
+    width: 700px;
+    height: 400px;
+    margin-left: 300px;
+ }
+ 
